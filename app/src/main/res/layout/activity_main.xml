@@ -20,6 +20,7 @@
         android:textSize="20sp"
         tools:background="@color/red"
         tools:text="Hola Platzi, curso de interfaces"/>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -31,7 +32,6 @@
         android:inputType="number"
         android:hint="Escribe tu nombre"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        />
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
